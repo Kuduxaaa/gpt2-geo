@@ -33,6 +33,8 @@ The GPT2GeoLMHead project is a natural language processing (NLP) venture aimed a
 #### 6. **Model Saving:**
    - The project incorporates functionality to save the pretrained GPT-2 model and tokenizer for future use.
 
+![#loss](https://raw.githubusercontent.com/Kuduxaaa/gpt2-geo/main/loss-stat.png?token=GHSAT0AAAAAACJGA7TBE34256UQI6CBNKTMZLDPWMQ)
+
 ### Usage:
 
 1. **Initialization:**
